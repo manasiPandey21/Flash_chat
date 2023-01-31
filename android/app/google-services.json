@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013834100428",
+    "project_id": "flash-chat-f0754",
+    "storage_bucket": "flash-chat-f0754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013834100428:android:54c30253170d578ef4dc69",
+        "android_client_info": {
+          "package_name": "com.Manasi_Pandey_flutterx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013834100428-23u5ac7qplr572v1d483arevhurj45k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqfqF8CE1qnw0DhquK11n_SxS22m62I0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013834100428-23u5ac7qplr572v1d483arevhurj45k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
